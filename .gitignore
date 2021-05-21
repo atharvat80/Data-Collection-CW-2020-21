@@ -1,7 +1,5 @@
 *
-
-!.git
 !.gitignore
 !keywords.xlsx
-!assignment.py
-!assignment.pdf
+!main.py
+!add_data.py
