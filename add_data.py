@@ -1,6 +1,6 @@
 """
 Title  : Data Collection and Cleaning Coursework
-Author : htrf88
+Author : Atharva Tidke
 """
 
 import requests, string
